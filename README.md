@@ -5,7 +5,9 @@
 &nbsp;
 #### Screenshot
 Standalone
+&nbsp;
 ![Standalone](https://raw.githubusercontent.com/pie62/HandySynth/refs/heads/main/Standalone.JPG)
 &nbsp;
 VST (REAPER 64 bit)
+&nbsp;
 ![VST](https://raw.githubusercontent.com/pie62/HandySynth/refs/heads/main/VST.JPG)
